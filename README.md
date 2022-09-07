@@ -1,7 +1,7 @@
 - 👋 Hi, I’m hagerElroby
 - 👀 I’m interested in .Front End development..
-- 🌱 I’m currently learning .redux ..
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Next js ..
+- 💞️ I’m looking to work as developer...
 - 📫 How to reach me linkedin.com/in/hager-ahmed-91a8ab194.
 
 <!---
