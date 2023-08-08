@@ -35,7 +35,9 @@
       <td width="25%" align="center">
         <span>Next js</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
-      </td>   
+      </td>  
+    </tr>
+      <tr>
       <td width="25%" align="center">
         <span>JQuery</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg">
