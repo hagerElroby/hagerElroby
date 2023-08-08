@@ -59,7 +59,7 @@
 <h2>Contact with me: </h2>
 <p align = "center">
 
-<a href="www.linkedin.com/in/hager-ahmed-91a8ab194">
+<a href="http://linkedin.com/in/hager-ahmed-91a8ab194">
   <img align="center" alt="Hager's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/hagerElroby">
