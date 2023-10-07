@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 &nbsp;, I'm Hager </h> <br>
 <h2>Frontend Developer from Egypt</h2>
-<img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="150px" width="200px"/>
+<div style="margin:auto" >
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="150px" width="200px"/>
+</div>
 ---
 <center>  <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
 
