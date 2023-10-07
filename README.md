@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 &nbsp;, I'm Hager </h> 
-<img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="70px" width="70px"/><br>
+<h1 align="center">Hi 👋 &nbsp;, I'm Hager </h> <br>
+<img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="150px" width="200px"/><br>
 <h2>Frontend Developer from Egypt</h2>
 
 ---
