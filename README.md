@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 &nbsp;, I'm Hager </h> <br>
 <h2>Frontend Developer from Egypt</h2>
 <div align="Center" >
-  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="150px" width="220px"/>
+<!--   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="150px" width="220px"/> -->
+  <img src="https://camo.githubusercontent.com/5e1bda2913b082fc4351c67808d11a820a4f07e39f1334f4fea14c817ec3d3ce/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3431363631302f73637265656e73686f74732f343830313130352f636f64696e675f6465736b5f666c61745f766563746f725f75695f75785f64657369676e5f696c6c757374726174696f6e5f6d6f74696f6e5f616e696d6174696f6e5f676966322e676966"/>
 </div>
 ---
 <center>  <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
