@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 &nbsp;, I'm Hager </h> <br>
 <h2>Frontend Developer from Egypt</h2>
-<p>My name is Hager Ahmed, and I am a dedicated front-end web developer.<br/> I have a passion for learning and creating new applications with fast, secure, and clean code.
-<b>(2018- 2023) Faculty of Engineering</b>
+<p>My name is Hager Ahmed, and I am a dedicated front-end web developer.<br/> I have a passion for learning and creating new applications with fast, secure, and clean code.<br/>
+<b>(2018- 2023) Faculty of Engineering</b><br/>
 Electrical Systems and Computer Engineering department at Al-Azhar University<br/>
-I design and develop services for customer of all sizes specalizing in creating stylish , modern websites , web services and online store , design and code beautifully simple things, and I love what I do.</p>
+I design and develop services for customer of all sizes, and I love what I do.</p>
 <div align="Center" >
 <!--   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="150px" width="220px"/> -->
   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="150px" width="220px"/>
