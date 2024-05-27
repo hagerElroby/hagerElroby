@@ -4,14 +4,14 @@
 <b>(2018- 2023) Faculty of Engineering</b><br/>
 Electrical Systems and Computer Engineering department at Al-Azhar University<br/>
 I design and develop services for customer of all sizes, and I love what I do.</p>
-<div align="Center" >
+
 <!--   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="150px" width="220px"/> -->
 <!--   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="150px" width="220px"/> -->
   <video width="320" height="240" controls>
   <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-8679620-7016684.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-</div>
+
 ---
 <center>  <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
 
