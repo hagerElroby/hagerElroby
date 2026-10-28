@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋 &nbsp;, I'm Hager </h> <br>
-<h2>Frontend Developer from Egypt</h2>
-<p>My name is Hager Ahmed, and I am a dedicated front-end web developer.<br/> I have a passion for learning and creating new applications with fast, secure, and clean code.<br/>
-<b>(2018- 2023) Faculty of Engineering</b><br/>
-Electrical Systems and Computer Engineering department at Al-Azhar University<br/>
-I design and develop services for customer of all sizes, and I love what I do.</p>
+<p>I’m a Frontend Developer from Egypt with 3+ years of experience building modern, scalable, and user-focused web applications.<br/>
+I specialize in React, Next.js, Angular, TypeScript, and React Native, with experience building solutions across e-commerce, multi-tenant SaaS platforms, marketplaces, real-time auctions, rental solutions, restaurant solutions, order management, POS systems, analytics dashboards, and mobile applications.<br/>
+I enjoy turning complex requirements into clean, reusable, maintainable, and responsive frontend experiences, with a focus on performance, usability, and scalable architecture.<br/>
+<b>(2018–2023) Faculty of Engineering</b><br/>
+Electrical Systems and Computer Engineering Department at Al-Azhar University.<br/>
+I’m passionate about continuous learning and building digital products that solve real business needs and provide great user experiences.</p>
 
 <!--   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="150px" width="220px"/> -->
 <!--   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="150px" width="220px"/> -->
