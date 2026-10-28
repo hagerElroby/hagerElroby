@@ -14,7 +14,9 @@ I’m passionate about continuous learning and building digital products that so
 </video>
 
 ---
-<center>  <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
+<center>
+  <h2>𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h2>
+</center>
 
 <table>
   <tbody>
@@ -30,53 +32,106 @@ I’m passionate about continuous learning and building digital products that so
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td> 
-    </tr>
-    <tr>
+      </td>
       <td width="25%" align="center">
-        <span>Type𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span>𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-      </td>   
-      <td width="25%" align="center">
-        <span>React js</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
-      </td>   
-      <td width="25%" align="center">
-        <span>Next js</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
-      </td>  
+      </td>
     </tr>
-      <tr>
+    <tr valign="top">
       <td width="25%" align="center">
-        <span>JQuery</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg">
-      </td>   
+        <span>𝗥𝗲𝗮𝗰𝘁</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+      </td>
       <td width="25%" align="center">
-        <span>Sass</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">
-      </td>   
+        <span>𝗡𝗲𝘅𝘁.𝗷𝘀</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
+      </td>
       <td width="25%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
-      </td>   
+        <span>𝗔𝗻𝗴𝘂𝗹𝗮𝗿</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲</span><br><br><br>
+        <img height="64px" src="https://reactnative.dev/img/header_logo.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗥𝗲𝗱𝘂𝘅 𝗧𝗼𝗼𝗹𝗸𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗥𝗲𝗮𝗰𝘁 𝗤𝘂𝗲𝗿𝘆</span><br><br><br>
+        <img height="64px" src="https://tanstack.com/_build/assets/logo-color-100w-2c9f2b12.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗦𝗖𝗦𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗔𝗻𝘁 𝗗𝗲𝘀𝗶𝗴𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗠𝗮𝘁𝗲𝗿𝗶𝗮𝗹 𝗨𝗜</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗦𝗼𝗰𝗸𝗲𝘁.𝗜𝗢</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗥𝗘𝗦𝗧 𝗔𝗣𝗜𝘀</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗿𝗮𝗽𝗵𝗤𝗟</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+      </td>
     </tr>
   </tbody>
 </table>
-</p>
 
 <hr>
-<h2>Contact with me: </h2>
-<p align = "center">
 
-<a href="http://linkedin.com/in/hager-ahmed-91a8ab194">
-  <img align="center" alt="Hager's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/hagerElroby">
-  <img align="center" alt="Hager's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="mailto:hagerelroby.az2020@gmail.com">
-  <img align="center" alt="Hager's Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</a>
+<hr>
+
+<h2>Contact with me:</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hager-ahmed-91a8ab194">
+    <img align="center" alt="Hager's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/hagerElroby">
+    <img align="center" alt="Hager's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="https://hager-ahmed-portfolio.vercel.app/">
+    <img align="center" alt="Hager's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+  </a>
+  <a href="mailto:hagerelroby.az2020@gmail.com">
+    <img align="center" alt="Hager's Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  </a>
 </p>
 
 <!---
