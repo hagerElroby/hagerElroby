@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 &nbsp;, I'm Hager </h> <br>
+<h1 align="center">Hi 👋 &nbsp;, I'm Hager </h1> <br>
 <p>I’m a Frontend Developer from Egypt with 3+ years of experience building modern, scalable, and user-focused web applications.<br/>
 I specialize in React, Next.js, Angular, TypeScript, and React Native, with experience building solutions across e-commerce, multi-tenant SaaS platforms, marketplaces, real-time auctions, rental solutions, restaurant solutions, order management, POS systems, analytics dashboards, and mobile applications.<br/>
 I enjoy turning complex requirements into clean, reusable, maintainable, and responsive frontend experiences, with a focus on performance, usability, and scalable architecture.<br/>
